@@ -1,0 +1,16 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" style="">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <path fill="#fff" id="canvas_background" height="302" width="302" d="M-1 -1 L301 -1 L301 301 L-1 301 Z" class="wZLNhcNf_0"></path>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <path fill="url(#gridpattern)" stroke-width="0" height="100%" width="100%" d="M0 0 L100 0 L100 100 L0 100 Z" class="wZLNhcNf_1"></path>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#000" id="svg_8" d="m67.733752,103.025556c-21.127395,-17.946403 -28.68128,-29.298975 -28.7425,-43.196578c-0.055828,-12.669368 9.269052,-24.897173 18.932649,-24.826657c4.825568,0.035283 15.176721,4.698304 18.8421,8.488171c1.846834,1.909553 2.721583,1.721253 6.833361,-1.470972c11.190524,-8.687869 22.118183,-8.870224 29.195416,-0.487159c11.310921,13.3979 9.251644,29.39744 -5.919724,45.993283c-8.065972,8.823314 -25.680284,24.476369 -27.543137,24.476369c-0.566841,0 -5.786011,-4.039415 -11.598164,-8.97646l0,0.000003z" stroke-width="1.5" fill="#fff" class="wZLNhcNf_2"></path>
+  <path stroke="#000" id="svg_9" d="m205.030259,124.40026c-11.737436,-11.187366 -15.934037,-18.264293 -15.968047,-26.927732c-0.031015,-7.897786 5.149471,-15.520313 10.518133,-15.476355c2.68087,0.021994 8.431508,2.928813 10.467828,5.291326c1.026018,1.190371 1.51199,1.072989 3.79631,-0.916969c6.216954,-5.415814 12.287873,-5.529489 16.219667,-0.303684c6.283842,8.351936 5.139799,18.325673 -3.288734,28.671132c-4.481093,5.500247 -14.266817,15.257993 -15.301735,15.257993c-0.314911,0 -3.214449,-2.518076 -6.443421,-5.595714l0,0.000002z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" class="wZLNhcNf_3"></path>
+  <path stroke="#000" id="svg_10" d="m131.901475,239.602407c-18.258241,-16.781058 -24.786286,-27.39644 -24.83919,-40.391602c-0.048238,-11.846687 8.010287,-23.280469 16.361537,-23.214544c4.170242,0.033 13.115683,4.393231 16.283292,7.936996c1.596031,1.785555 2.351985,1.609485 5.905371,-1.375455c9.670827,-8.123716 19.114466,-8.294236 25.230599,-0.45552c9.774863,12.527897 7.995245,27.48851 -5.115818,43.006702c-6.970585,8.250376 -22.192817,22.886989 -23.802693,22.886989c-0.48986,0 -5.000256,-3.777106 -10.023098,-8.393566l0,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff" class="wZLNhcNf_4"></path>
+ </g>
+<style data-made-with="vivus-instant">.wZLNhcNf_0{stroke-dasharray:1208 1210;stroke-dashoffset:1209;animation:wZLNhcNf_draw 2000ms linear 0ms forwards;}.wZLNhcNf_1{stroke-dasharray:400 402;stroke-dashoffset:401;animation:wZLNhcNf_draw 2000ms linear 250ms forwards;}.wZLNhcNf_2{stroke-dasharray:253 255;stroke-dashoffset:254;animation:wZLNhcNf_draw 2000ms linear 500ms forwards;}.wZLNhcNf_3{stroke-dasharray:150 152;stroke-dashoffset:151;animation:wZLNhcNf_draw 2000ms linear 750ms forwards;}.wZLNhcNf_4{stroke-dasharray:228 230;stroke-dashoffset:229;animation:wZLNhcNf_draw 2000ms linear 1000ms forwards;}@keyframes wZLNhcNf_draw{100%{stroke-dashoffset:0;}}@keyframes wZLNhcNf_fade{0%{stroke-opacity:1;}94.44444444444444%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>

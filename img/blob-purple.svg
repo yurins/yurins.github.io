@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<svg
+  width="600"
+  height="600"
+  viewBox="0 0 600 600"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <g transform="translate(300,300)">
+    <path d="M200,0C200,100,100,200,0,200C-100,200,-200,100,-200,0C-200,-100,-100,-200,0,-200C100,-200,200,-100,200,0Z" fill="#a9a9f0" />
+  </g>
+</svg>
+    
